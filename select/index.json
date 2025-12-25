@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "♡桃色片想い♡",
+  "base_artist": "松浦亜弥",
+  "createdAt": "2025-12-25T07:51:25.446013Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桃色片想い",
+      "artist": "松浦亜弥",
+      "has_synced": false,
+      "path": "select/01_桃色片想い_松浦亜弥.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "♡桃色片想い♡",
+      "artist": "松浦亜弥",
+      "has_synced": false,
+      "path": "select/02_♡桃色片想い♡_松浦亜弥.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "♡桃色片想い♡",
+      "artist": "Matsuura, Aya",
+      "has_synced": false,
+      "path": "select/03_♡桃色片想い♡_Matsuura,_Aya.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "♡桃色片想い♡",
+      "artist": "Matsuura, Aya",
+      "has_synced": true,
+      "path": "select/04_♡桃色片想い♡_Matsuura,_Aya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "♡桃色片想い♡",
+      "artist": "松浦亜弥",
+      "has_synced": true,
+      "path": "select/05_♡桃色片想い♡_松浦亜弥.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "♡桃色片想い♡",
+      "artist": "立花日菜",
+      "has_synced": true,
+      "path": "select/06_♡桃色片想い♡_立花日菜.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "♡桃色片想い♡",
+      "artist": "Aya Matsuura",
+      "has_synced": true,
+      "path": "select/07_♡桃色片想い♡_Aya_Matsuura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "♡桃色片想い♡",
+      "artist": "松浦 亜弥",
+      "has_synced": false,
+      "path": "select/pl_01_♡桃色片想い♡_松浦_亜弥.txt"
+    }
+  ]
+}
